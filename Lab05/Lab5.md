@@ -1,3 +1,14 @@
+---
+lab:
+  title: 'Lab 5: Exploring GitHub Copilot modes — Autocomplete, Chat, Agent, and Custom Prompts (Optional)'
+  description: 'In this lab, you will learn how to use GitHub Copilot effectively by working through a series of hands‑on challenges. You will practice using different Copilot modes and features to:'
+  duration: 90 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 5: Exploring GitHub Copilot modes — Autocomplete, Chat, Agent, and Custom Prompts (Optional)
 
 In this lab, you will learn how to use **GitHub Copilot** effectively by
