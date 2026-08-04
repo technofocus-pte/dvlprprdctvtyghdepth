@@ -1,3 +1,14 @@
+---
+lab:
+  title: 'Lab 7: Building a task management REST API with GitHub Copilot as an AI pair programmer'
+  description: This lab simulates that real-world scenario. You will scaffold, build, test, and document the service — using GitHub Copilot as your AI pair programmer at every step — while learning when to accept, when to refine, and when to reject its suggestions.
+  duration: 160 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 7: Building a task management REST API with GitHub Copilot as an AI pair programmer
 
 **Scenario :**
