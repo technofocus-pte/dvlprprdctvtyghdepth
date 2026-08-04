@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 2- Diagnosing and fixing Java application errors using GitHub Copilot
+  description: In this lab, you practiced troubleshooting and debugging a Java Spring Boot application with intentionally seeded issues, focusing on understanding problems before applying fixes. You learned how to analyze API behavior, interpret Maven and Java compilation errors, and identify the true root causes of failures.
+  duration: 126 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 2- Diagnosing and fixing Java application errors using GitHub Copilot
 
 ## Overview
