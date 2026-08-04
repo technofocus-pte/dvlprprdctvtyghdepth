@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 06 – Building and Using MCP Servers with GitHub Copilot (Optional)
+  description: In this lab, you explored how GitHub Copilot can be extended beyond code suggestions by building and using Model Context Protocol (MCP) servers. You started by understanding MCP concepts and architecture, then used GitHub Copilot Agent Mode to create a custom Java-based MCP server. Copilot assisted with generating server code, configuring transports, handling dependencies, and exposing executable math tools that could be discovered and invoked by Copilot itself. You also created an MCP client to connect to the server, list available tools, invoke them programmatically, and handle error scenarios such as division by zero. Finally, you learned how MCP enables GitHub Copilot to act as an intelligent agent that can discover, call, and orchestrate external capabilities, demonstrating a significant leap in developer productivity and extensibility.
+  duration: 40 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 06 – Building and Using MCP Servers with GitHub Copilot (Optional)
 
 **Objective**
