@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 12 — Building a Flask customer health dashboard using GitHub Copilot (Optional)
+  description: 'By completing this lab, you will learn how to:'
+  duration: 94 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 12 — Building a Flask customer health dashboard using GitHub Copilot (Optional)
 
 ### Scenario 
