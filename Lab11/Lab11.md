@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 11 - Fixing a production incident using GitHub Copilot Agent mode (Optional)
+  description: 'By the end of this capstone, you will be able to:'
+  duration: 90 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 11 - Fixing a production incident using GitHub Copilot Agent mode (Optional)
 
 ### Scenario 
