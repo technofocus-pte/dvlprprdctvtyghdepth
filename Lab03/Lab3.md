@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 3 – Creating and Improving Documentation with GitHub Copilot
+  description: In this lab, you learned how to use GitHub Copilot to efficiently create, improve, and validate documentation for a Java Spring Boot application. You began by understanding the REST API and generating functional API documentation with endpoints, request and response examples, and curl commands. You then used Copilot to add Swagger (OpenAPI) support, enabling interactive API exploration. The lab also focused on documenting source code using JavaDoc, including controllers, services, models, repositories, and test classes, helping future developers understand system behavior. You structured documentation into functional and technical views for different audiences and validated API behavior using curl. Throughout the lab, you experienced how GitHub Copilot accelerates documentation tasks while developers remain responsible for accuracy, clarity, and design decisions.
+  duration: 76 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 3 – Creating and Improving Documentation with GitHub Copilot 
 
 ### Overview
