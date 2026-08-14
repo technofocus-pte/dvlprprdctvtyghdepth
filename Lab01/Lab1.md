@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab1-Using GitHub Copilot to Build and Improve Automated Tests for a Java REST API
+  description: In this lab, you explored how GitHub Copilot can significantly improve developer productivity — when used thoughtfully and responsibly.
+  duration: 112 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab1-Using GitHub Copilot to Build and Improve Automated Tests for a Java REST API
 
 **Lab Overview**

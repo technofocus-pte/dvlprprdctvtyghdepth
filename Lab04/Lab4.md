@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 4 – Refactoring Documentation and Technical Design Using GitHub Copilot
+  description: In this lab, learners use GitHub Copilot to transform functional and technical documentation into a working Spring Boot application and then incrementally improve the code through guided refactoring. Starting from existing Markdown files (READMEFUNC.md and READMETECH.md), Copilot is instructed to generate a layered application using controllers, services, repositories, and models. Once the application is running, learners focus on improving code quality by refactoring service methods without changing behavior, adding minimal error handling, extracting reusable logic, and enhancing repository capabilities using Spring Data JPA. The lab concludes with Copilot‑assisted documentation and optional test generation. This hands‑on experience demonstrates how GitHub Copilot accelerates real‑world development tasks such as documentation‑driven coding, safe refactoring, debugging, and maintainability improvements—while keeping developers in full control of design and behavior.
+  duration: 60 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 4 – Refactoring Documentation and Technical Design Using GitHub Copilot
 
 ### Objective

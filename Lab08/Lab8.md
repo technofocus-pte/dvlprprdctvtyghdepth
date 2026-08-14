@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 8- Improving code quality and maintainability with GitHub Copilot
+  description: In this lab, you'll use GitHub Copilot as your AI pair programmer to understand, refactor, test, and document inherited code while maintaining a code review mindset at every step.
+  duration: 5 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - GitHub
+---
+
 # Lab 8- Improving code quality and maintainability with GitHub Copilot
 
 ### Scenario 
